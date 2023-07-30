@@ -21,7 +21,7 @@ I'm Shahad, I'm a full stack developer and computer science student at King Abdu
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiShahad&count_private=true&theme=dracula">
 
 </p>
 
