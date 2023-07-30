@@ -30,6 +30,6 @@ I'm Shahad, I'm a full stack developer and computer science student at King Abdu
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishahadmohammed/)](https://www.linkedin.com/in/ishahadmohammed/) 
-   [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iiShahadll)](https://twitter.com/iiShahadll) 
+   [![Linkedin Badge](https://img.shields.io/badge/-shahadmohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishahadmohammed/)](https://www.linkedin.com/in/ishahadmohammed/) 
+   [![Twitter Badge](https://img.shields.io/badge/-@iiShahadll-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iiShahadll)](https://twitter.com/iiShahadll) 
 </p>
