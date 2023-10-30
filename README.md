@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm Shahad, I'm a full stack developer and computer science student at King Abdulaziz University.
+I'm Shahad, I'm a software engineer and computer science student at King Abdulaziz University.
 
 ---
 
