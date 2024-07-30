@@ -3,7 +3,7 @@
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me **shahad.m.ibrahem@gmail.com**
 - 👨‍💻 All of my projects are available at **https://shahad-alahdal.vercel.app/**
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I used to be a graphic designer**
 
 <div> <a href="https://twitter.com/iishahadll" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iishahad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
