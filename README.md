@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on **some cool stuff**
-- 🌱 I’m currently learning **React & Next JS**
+- 🌱 I’m currently learning **backend stuff**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me **shahad.m.ibrahem@gmail.com**
 - ⚡ Fun fact **I used to be a graphic designer**
